@@ -1,0 +1,22 @@
+# Django & API
+django
+djangorestframework
+django-cors-headers
+
+# AI & Machine Learning
+torch
+numpy
+langchain
+langchain-community
+sentence-transformers
+chromadb
+
+# Computer Vision & Imaging
+opencv-python
+pillow
+
+# Data Scraping & Utilities
+youtube-transcript-api
+beautifulsoup4
+requests
+python-dotenv
